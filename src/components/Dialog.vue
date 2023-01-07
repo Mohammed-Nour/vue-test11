@@ -16,7 +16,7 @@
                         Не соглашаться
                     </v-btn>
                     <v-btn color="green darken-1" text @click="
-    dialog = false; agree()">
+                    dialog = false; agree()">
                         Соглашаться
                     </v-btn>
                 </v-card-actions>
